@@ -38,4 +38,4 @@ async def calculadora(ctx,operacion="",num1=0,num2=0):
             await("la division entre cero es imposible")    
     else:
         await("operaciones no reconocidas")
-bot.run("MTI3MDQ1ODY5MjQ1Mzc5MzgwMg.G3uOgf.vf6gNf-ygATC9A1898yi2lAOcXi9-ypUJ-T7yE")
+bot.run("add your token")
